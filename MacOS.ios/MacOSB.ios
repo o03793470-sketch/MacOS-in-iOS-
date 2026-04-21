@@ -1,0 +1,1 @@
+iso.mac.boot.bin{get bin.boot=macboot.bin^=macos.iso}\sh.mac={install bin.mac.iso.ios.boot.bin}
